@@ -20,7 +20,7 @@ public class CsvGenerator {
         for (int i = 0; i < numColumns; i++) {
             System.out.print("Digite o nome da coluna " + (i + 1) + ": ");
             columnNames[i] = scanner.nextLine();
-        }
+        } // zoas
 
 
         System.out.print("Digite o número de linhas: ");
