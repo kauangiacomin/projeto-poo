@@ -1,4 +1,4 @@
-package primeirob.Aulas;
+package primeirob.Aulas.projeto1;
 
 import java.io.FileWriter;
 import java.io.IOException;
